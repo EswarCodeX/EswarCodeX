@@ -40,7 +40,7 @@ I’m an indie full-stack developer building my own corner of the web one projec
 
 ###  Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,tailwind,git,github,linux,aws,vercel,figma,discord,windows,ollama,ollama&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,tailwind,git,github,linux,aws,vercel,figma,discord,windows,ollama,ollama&perline=10)](https://skillicons.dev)
 <br />
 #
 
