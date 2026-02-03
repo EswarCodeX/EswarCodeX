@@ -40,9 +40,31 @@ I’m an indie full-stack developer building my own corner of the web one projec
 
 ###  Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,mongodb,tailwind,git,github,linux,aws,vercel,figma,discord,windows,docker,ollama&perline=10)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/EswarCodeX)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Ollama](https://skillicons.dev/icons?i=ollama)](https://ollama.com/)
+
 <br />
-#
+
 
 <br clear="both">
 
