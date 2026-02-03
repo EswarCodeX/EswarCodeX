@@ -61,8 +61,8 @@ I’m an indie full-stack developer building my own corner of the web one projec
       </a>
       <br/>
       <b>In Out Designs</b><br/>
-      <sub>
-        Designed and developed a minimal, modern interior design website with a strong focus on layout, typography, and visual balance.
+       <sub>
+        A minimal and modern interior design website showcasing projects, services, and brand identity with a strong visual focus.
       </sub><br/>
       🔗 <a href="https://inoutdesigns.vercel.app/">Live Demo</a>
       <br/>
@@ -78,7 +78,7 @@ I’m an indie full-stack developer building my own corner of the web one projec
   <br/>
   <b>Xplocode Official Website</b><br/>
   <sub>
-    Developed and enhanced frontend features for the company website during internship.
+    A corporate website presenting the company’s services, products, and online presence with a clean and professional layout.
   </sub><br/>
   🔗 <a href="https://xplocode.com/">Line Demo</a>
   <br/>
@@ -94,7 +94,7 @@ I’m an indie full-stack developer building my own corner of the web one projec
   <br/>
   <b>AravindVK Magician Portfolio</b><br/>
   <sub>
-    Built a responsive personal portfolio with clean UI and smooth animations.
+    A personal portfolio website designed to showcase performances, media, and contact information in an engaging format.
   </sub><br/>
   🔗 <a href="https://aravindvk.vercel.app/">Live Demo</a>
   <br/>
