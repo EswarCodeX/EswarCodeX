@@ -51,7 +51,7 @@ I’m an indie full-stack developer building my own corner of the web one projec
 
 ## Projects - showcase
 
-<table>
+<table style="display:flex; flex-wrap:wrap; gap:16px;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
