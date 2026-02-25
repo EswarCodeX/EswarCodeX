@@ -63,6 +63,7 @@ I’m an indie full-stack developer building my own corner of the web one projec
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Ollama](https://skillicons.dev/icons?i=ollama)](https://ollama.com/)
 
+[![Python](https://skillicons.dev/icons?i=bun)](https://bun.com/)
 <br />
 
 
